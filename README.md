@@ -25,5 +25,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/1v1-shootout.git
+   git clone https://github.com/kamronm1/1v1-shootout.git
    cd 1v1-shootout
